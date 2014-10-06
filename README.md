@@ -1,4 +1,5 @@
 angular-socket-chat
+=================================
 
 A working chatroom example built with AngularJS and Socket.io.
 
